@@ -22,7 +22,7 @@ df_short = df.head()
 
 
 # Shrink Data into core dataframe (we will keep business ID as a label)
-df_core = df.drop(['address', 'city', 'latitude', 'longitude', 'postal_code', 'state'], axis = 1)
+df_core = df.drop(['address', 'city', 'latitude', 'longitude', 'state'], axis = 1)
 df_core.columns
 
 # Drop all rows where the zipcodes are not part of the label space (later when we get zip codes)
@@ -185,6 +185,8 @@ data_final = pd.concat([df_super_core, total_hours_df, categories_df, attributes
 
 names_df = data_final[['business_id', 'name']]
 numerical_df = data_final.drop(columns=['name'])
+
+data_final.to_csv('data_finalized.csv', index=False)
                 
         
         
