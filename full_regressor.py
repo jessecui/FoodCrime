@@ -1,41 +1,63 @@
 # -*- coding: utf-8 -*-
 
 import pandas as pd
+import sklearn
 import numpy as np
-import matplotlib as plt
+import matplotlib.pyplot as plt
 
-df_full = pd.read_csv('data_finalized.csv')
+from sklearn import decomposition
+
+df_full = pd.read_csv('data_finalized.csv', nrows = 100000)
 
 df = df_full
 
 names_df = df[['business_id', 'name']]
 numerical_df = df.drop(columns=['name'])
 
-m, d = df.shape
+print(numerical_df.columns[0:30])
 
-crimes_df = pd.DataFrame(np.array([[89108, 62.6, 64.8], 
-                                 [89110, 56.6, 58.1],
-                                 [89129, 41.1, 44.2],
-                                 [89102, 71.9, 73.0],
-                                 [89149, 38.2, 41.3]]), columns=['zip_code', 'violent_crime', 'property_crime'])
+crimes_df = pd.read_pickle("zipcodeCrime")
 
 # Drop all non-us zipcodes
-numerical_df['postal_code'] = pd.to_numeric(numerical_df['postal_code'], errors='coerce')
-numerical_df = numerical_df[np.isfinite(numerical_df['postal_code'])]
+#numerical_df['postal_code'] = pd.to_numeric(numerical_df['postal_code'], errors='coerce')
+#numerical_df = numerical_df[np.isfinite(numerical_df['postal_code'])]
 
 # Only use restaurants in the zip code range
-zip_codes = list(crimes_df['zip_code'].values)
+zip_codes = list(crimes_df['zipcodes'].values)
 numerical_df = numerical_df[numerical_df['postal_code'].isin(zip_codes)]
 
 X_df = numerical_df.drop(columns=['business_id', 'postal_code'])
-y_df = pd.merge(numerical_df[['business_id', 'postal_code']], crimes_df, how = 'left', left_on='postal_code', right_on='zip_code', sort=False)
+y_df = pd.merge(numerical_df[['business_id', 'postal_code']], crimes_df, how = 'left', left_on='postal_code', right_on='zipcodes', sort=False)
 y_df = y_df.iloc[:, 3:]
+
 
 X = X_df.values
 y = y_df.values
+m, d = X_df.shape
+
+#COLLBORATIVE FILTERING
+binary_data = np.asmatrix(X[:, 24:])
+print(str(m) + "," + str(d))
+
+
+#Normalize each column to be a unit vector
+from sklearn.metrics.pairwise import cosine_similarity
+
+feature_norm = np.linalg.norm(binary_data, axis = 0)
+binary_data = binary_data[:, (feature_norm != 0)]
+u, s, vh = np.linalg.svd(binary_data)
+
+print(s[0:500])
+plt.plot(s)
+plt.show()
+
+binary_data = np.divide(binary_data, np.linalg.norm(binary_data, axis = 0))
+#similarity_matrix = cosine_similarity(binary_data.transpose())
+#print(similarity_matrix)
 
 # PREDICTIONS FOR VIOLENT CRIMES
-from sklearn.cross_validation import train_test_split
+from sklearn import cross_validation
+from cross_validation import train_test_split
 
 X_train, X_test, y_train, y_test = train_test_split(X, y[:, 0], test_size = 0.20, random_state = 1)
 
