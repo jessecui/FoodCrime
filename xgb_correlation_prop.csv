@@ -1,0 +1,1638 @@
+Word,Value
+review_count,0.42027295
+BusinessParking_garage_True,0.22489728
+GoodForKids_True,-0.19949357
+BusinessParking_street_True,0.19500981
+BusinessParking_street_False,-0.18629692
+Sunday_close,0.1833895
+stars,0.17358053
+Tuesday_avail,0.16646223
+OutdoorSeating_False,0.15967569
+RestaurantsPriceRange2_1,0.14705898
+is_open,0.14561439
+ByAppointmentOnly_True,-0.11137816
+Health & Medical,-0.107025735
+Arts & Entertainment,0.09806524
+Mexican,0.09671903400000001
+Automotive,0.07253801
+Saturday_open,-0.067298956
+Thursday_close,0.06637205
+RestaurantsAttire_u'casual',-0.06399794
+BikeParking_True,-0.06206901
+BusinessAcceptsCreditCards_False,0.058587525
+American (Traditional),-0.056617107
+Active Life,-0.052005358
+OutdoorSeating_True,-0.050442245
+Pets,-0.044476642999999996
+GoodForMeal_latenight_False,-0.04347606
+OutdoorSeating_NA,0.03936332
+Apartments,0.03709551
+Nightlife,0.03505055
+BusinessParking_lot_False,0.035007935
+Hotels & Travel,0.03198113
+Skin Care,-0.03070723
+Nail Salons,-0.029130707999999998
+WiFi_'free',-0.027837802000000002
+Saturday_close,-0.025606588
+Movers,0.023798121000000002
+Real Estate Agents,-0.022453234
+Pizza,-0.021556073999999998
+Saturday_avail,-0.020863414
+Preschools,-0.019907407
+Lawyers,0.019436363
+Sunday_open,-0.018896048999999998
+Ambience_divey_False,-0.018478400000000002
+BusinessParking_valet_False,-0.01818344
+Beauty & Spas,-0.017497966
+Latin American,0.017427763
+Public Services & Government,0.01736935
+BusinessParking_lot_True,-0.016702935
+Transportation,0.016350888
+Monday_close,-0.01625015
+Monday_open,-0.015301287
+Community Service/Non-Profit,0.013621188000000001
+Oil Change Stations,-0.013547700000000001
+Tuesday_open,-0.012666855
+BusinessParking_validated_True,0.011584856999999999
+Shopping,0.011375188
+American (New),-0.011147285
+Friday_open,0.011119446000000002
+RestaurantsTakeOut_NA,-0.011040703999999998
+Ambience_divey_True,0.01098962
+Korean,0.01034253
+GoodForKids_False,0.010284632
+Car Wash,-0.009757176999999999
+Mass Media,0.008760975
+Pool Cleaners,-0.008623579499999999
+Airports,0.008380551
+Tex-Mex,-0.007830881
+Burgers,-0.00754948
+Adult Entertainment,0.0073377225
+NoiseLevel_u'average',0.007003011999999999
+Ice Cream & Frozen Yogurt,-0.0067230323
+Criminal Defense Law,0.006610054000000001
+Museums,0.006521288
+Tattoo,0.0062898345999999996
+Drugstores,-0.006190381
+BusinessParking_validated_NA,0.0059549830000000005
+Check Cashing/Pay-day Loans,0.0054049687
+RestaurantsGoodForGroups_NA,0.005359565
+Cinema,-0.0052106455
+Tuesday_close,0.0048440374
+Dance Clubs,0.004613396
+Auto Repair,-0.0041104993
+Contractors,-0.0040074587
+Ambience_romantic_False,0.003826954
+Soul Food,0.0037322103000000002
+Veterinarians,-0.0037212253000000004
+GoodForMeal_lunch_False,-0.0033934237
+Mortgage Brokers,-0.0030468374
+Wednesday_open,-0.0028877434999999996
+Ethiopian,0.002765841
+ByAppointmentOnly_NA,-0.002681428
+Day Spas,-0.002589634
+Vietnamese,0.002438537
+Property Management,0.002001765
+Friday_close,-0.0017898898
+BusinessAcceptsBitcoin_NA,0.0017306995999999998
+Ambience_hipster_True,0.0016514675
+HappyHour_False,0.0016475478
+Golf,-0.0016084947
+Friday_avail,-0.0015015223
+Caters_False,-0.0014250327
+HasTV_True,0.0014116997
+Steakhouses,-0.0014027535999999998
+Alcohol_NA,-0.0013821975
+Bail Bondsmen,0.0012355733000000001
+Thursday_open,0.0011946268
+Music_live_NA,-0.0011396111999999999
+Post Offices,-0.0011171708999999999
+Jewelry,-0.0009832939
+Wine Bars,-0.0009774723
+Oral Surgeons,-0.0009406517500000001
+AcceptsInsurance_True,-0.00093452545
+Resorts,-0.00089679175
+Thrift Stores,-0.0008821575999999999
+Bridal,-0.0008247563400000001
+Makeup Artists,-0.0007461713
+Carpeting,-0.0006949849
+Tutoring Centers,0.00066858553
+Alcohol_'none',-0.0006661615299999999
+Musical Instrument Services,-0.00064454647
+Sandwiches,-0.0006364564
+Trainers,-0.0006313425
+RestaurantsTakeOut_False,-0.00060116034
+BusinessAcceptsCreditCards_NA,0.0005973198000000001
+Ethnic Food,-0.0005141443
+Limos,-0.0005055038
+RestaurantsPriceRange2_3,-0.0005005383
+GoodForMeal_dessert_True,-0.00047985167000000003
+Massage,-0.00047866954000000005
+Diners,-0.00047552
+Local Services,0.00044055746
+Boxing,0.0004333783
+Mattresses,-0.00037226846
+Farms,-0.00036285384
+Commercial Real Estate,0.00036047882000000004
+Sunday_avail,-0.00034735765
+Music_live_True,-0.00032675074
+Bistros,-0.000295782
+WheelchairAccessible_False,-0.0002800109
+RestaurantsPriceRange2_2,0.00027804307
+Buffets,-0.00025473748
+Appraisal Services,-0.00025005484
+BusinessParking_NA,-0.00024916403
+Alcohol_'full_bar',0.00024883472
+Tattoo Removal,-0.0002425746
+BusinessParking_garage_False,0.00024252827
+Halal,-0.00024176856
+NoiseLevel_'average',-0.00024124802000000003
+Costumes,-0.00024084777000000002
+Landmarks & Historical Buildings,-0.00023893807999999996
+Interior Design,-0.0002357193
+Sunglasses,-0.00021817717
+Ambience_NA,-0.00021732682999999996
+Guitar Stores,-0.00021611647000000002
+Dance Studios,0.00021197080000000002
+Paint & Sip,-0.00019881506
+Wraps,-0.00018689424999999998
+Real Estate Services,-0.00018620977
+BusinessAcceptsBitcoin_False,0.00017095951
+Event Planning & Services,-0.0001583244
+Financial Services,0.0001517749
+Music Venues,-0.00014469313000000001
+Swimming Lessons/Schools,-0.00014103371
+Home Staging,-0.00014076426
+Arts & Crafts,-0.0001399275
+Wholesale Stores,-0.00013687222
+Auto Loan Providers,-0.00013287159
+Vacation Rentals,0.00012609205
+Hair Salons,-0.00012477524
+GoodForDancing_False,0.00012458399999999998
+Meat Shops,-0.00011913346999999999
+Indian,-0.00011593195
+Party & Event Planning,-0.00011176886000000001
+Self Storage,-0.00011045003999999999
+Fruits & Veggies,-0.00010992428999999998
+WheelchairAccessible_NA,-0.00010633501
+Sicilian,-0.00010510803
+Wedding Planning,-0.00010433356
+RestaurantsTableService_NA,0.00010383429
+Carpet Cleaning,-0.000102729544
+Junk Removal & Hauling,-9.173433499999999e-05
+Private Jet Charter,-9.107903e-05
+Professional Services,-8.611526599999999e-05
+Education,-8.590495399999999e-05
+Smoking_u'no',-8.139369999999999e-05
+Juice Bars & Smoothies,-7.958398e-05
+Ambience_casual_False,7.815725000000001e-05
+Grocery,-7.2595845e-05
+Asian Fusion,-7.152458e-05
+RestaurantsReservations_True,-6.855233e-05
+ByAppointmentOnly_False,6.817696e-05
+Eatertainment,-6.614797e-05
+Noodles,-6.257924e-05
+Social Clubs,6.235359e-05
+Organic Stores,-6.191469e-05
+Szechuan,-5.0742667e-05
+Wednesday_avail,-4.3921147000000004e-05
+Reiki,-4.2247757e-05
+BestNights_friday_False,-4.1700012e-05
+Fire Departments,-3.7831676e-05
+Police Departments,-3.7237815999999995e-05
+Pet Adoption,-3.6405504999999996e-05
+Salad,-3.421252e-05
+Mortgage Lenders,-3.014013e-05
+Weight Loss Centers,-2.8270547999999998e-05
+Acai Bowls,-2.6071563999999998e-05
+Reflexology,2.2986447e-05
+DogsAllowed_True,-2.0816882e-05
+WiFi_u'paid',-1.6950697e-05
+BusinessParking_valet_NA,-0.0
+Food Delivery Services,-0.0
+Firewood,-0.0
+Fireworks,-0.0
+First Aid Classes,-0.0
+Fish & Chips,-0.0
+Fishing,-0.0
+Fitness & Instruction,-0.0
+Fitness/Exercise Equipment,-0.0
+Flea Markets,-0.0
+Flight Instruction,-0.0
+Float Spa,-0.0
+Flooring,-0.0
+Floral Designers,-0.0
+Florists,-0.0
+Flowers,-0.0
+Flowers & Gifts,-0.0
+Flyboarding,-0.0
+Fondue,-0.0
+Food,-0.0
+Food Banks,-0.0
+Fireplace Services,-0.0
+Firearm Training,-0.0
+Fire Protection Services,-0.0
+Fast Food,-0.0
+Face Painting,-0.0
+Falafel,-0.0
+Family Practice,-0.0
+Farm Equipment Repair,-0.0
+Farmers Market,-0.0
+Farming Equipment,-0.0
+Music_karaoke_NA,-0.0
+Fashion,-0.0
+Fences & Gates,-0.0
+Music_jukebox_True,-0.0
+Fencing Clubs,-0.0
+Feng Shui,-0.0
+Fertility,-0.0
+Festivals,-0.0
+Filipino,-0.0
+Financial Advising,-0.0
+Music_karaoke_False,-0.0
+Fingerprinting,-0.0
+Food Court,-0.0
+Food Stands,-0.0
+Golf Equipment Shops,-0.0
+Food Tours,-0.0
+Gay Bars,-0.0
+Gelato,-0.0
+Gemstones & Minerals,-0.0
+General Dentistry,-0.0
+General Festivals,-0.0
+General Litigation,-0.0
+Generator Installation/Repair,-0.0
+Geneticists,-0.0
+German,-0.0
+Gerontologists,-0.0
+Gift Shops,-0.0
+Glass & Mirrors,-0.0
+Glass Blowing,-0.0
+Gluten-Free,-0.0
+Go Karts,-0.0
+Gold Buyers,-0.0
+Music_jukebox_False,-0.0
+Golf Cart Dealers,-0.0
+Golf Cart Rentals,-0.0
+Gastropubs,-0.0
+Gastroenterologist,-0.0
+Gas Stations,-0.0
+Funeral Services & Cemeteries,-0.0
+Food Trucks,-0.0
+Formal Wear,-0.0
+Foundation Repair,-0.0
+Framing,-0.0
+Free Diving,-0.0
+French,-0.0
+Music_jukebox_NA,-0.0
+Fuel Docks,-0.0
+Fur Clothing,-0.0
+Gardeners,-0.0
+Furniture Assembly,-0.0
+Furniture Rental,-0.0
+Furniture Repair,-0.0
+Furniture Reupholstery,-0.0
+Furniture Stores,-0.0
+Game Meat,-0.0
+Game Truck Rental,-0.0
+Garage Door Services,-0.0
+Fabric Stores,-0.0
+Eyewear & Opticians,-0.0
+Eyelash Service,-0.0
+Eyebrow Services,-0.0
+Divorce & Family Law,-0.0
+Do-It-Yourself Food,-0.0
+Doctors,-0.0
+Dog Parks,-0.0
+Dog Walkers,-0.0
+Dominican,-0.0
+Donairs,-0.0
+Donation Center,-0.0
+Donuts,-0.0
+Door Sales/Installation,-0.0
+Doulas,-0.0
+Drive-In Theater,-0.0
+Drive-Thru Bars,-0.0
+Driving Schools,-0.0
+Drones,-0.0
+Music_video_NA,-0.0
+Dry Cleaning,-0.0
+Dry Cleaning & Laundry,-0.0
+Drywall Installation & Repair,-0.0
+Diving,-0.0
+Dive Shops,-0.0
+Dive Bars,-0.0
+Diagnostic Services,-0.0
+Demolition Services,-0.0
+Dental Hygienists,-0.0
+Dentists,-0.0
+Department Stores,-0.0
+Departments of Motor Vehicles,-0.0
+Dermatologists,-0.0
+Desserts,-0.0
+Diagnostic Imaging,-0.0
+Dialysis Clinics,-0.0
+Distilleries,-0.0
+Dietitians,-0.0
+Digitizing Services,-0.0
+Dim Sum,-0.0
+Music_video_True,-0.0
+Dinner Theater,-0.0
+Disability Law,-0.0
+Disc Golf,-0.0
+Discount Store,-0.0
+Dumpster Rental,-0.0
+Duplication Services,-0.0
+Duty-Free Shops,-0.0
+Estate Planning Law,-0.0
+Endodontists,-0.0
+Engraving,-0.0
+Entertainment Law,-0.0
+Environmental Abatement,-0.0
+Environmental Testing,-0.0
+Erotic Massage,-0.0
+Escape Games,-0.0
+Estate Liquidation,-0.0
+Estheticians,-0.0
+Employment Law,-0.0
+Ethical Grocery,-0.0
+Music_no_music_False,-0.0
+Music_live_False,-0.0
+Ethnic Grocery,-0.0
+Event Photography,-0.0
+Music_karaoke_True,-0.0
+Excavation Services,-0.0
+Experiences,-0.0
+Endocrinologists,-0.0
+Employment Agencies,-0.0
+EV Charging Stations,-0.0
+Electricians,-0.0
+Ear Nose & Throat,-0.0
+Eastern European,-0.0
+Music_video_False,-0.0
+Editorial Services,-0.0
+Music_no_music_NA,-0.0
+Educational Services,-0.0
+Egyptian,-0.0
+Elder Care Planning,-0.0
+Electricity Suppliers,-0.0
+Empanadas,-0.0
+Electronics,-0.0
+Electronics Repair,-0.0
+Elementary Schools,-0.0
+Embassy,-0.0
+Embroidery & Crochet,-0.0
+Emergency Medicine,-0.0
+Emergency Pet Hospital,-0.0
+Emergency Rooms,-0.0
+Golf Equipment,-0.0
+Golf Lessons,-0.0
+BusinessParking_street_NA,-0.0
+Jails & Prisons,-0.0
+Indoor Playcentre,-0.0
+Infectious Disease Specialists,-0.0
+Installment Loans,-0.0
+Insulation Installation,-0.0
+Insurance,-0.0
+HasTV_NA,-0.0
+Interlock Systems,-0.0
+Internal Medicine,-0.0
+International,-0.0
+International Grocery,-0.0
+Internet Cafes,-0.0
+Internet Service Providers,-0.0
+Interval Training Gyms,-0.0
+Investing,-0.0
+Irish,-0.0
+Irish Pub,-0.0
+Irrigation,-0.0
+Island Pub,-0.0
+Italian,-0.0
+Indoor Landscaping,-0.0
+Indonesian,-0.0
+HasTV_None,-0.0
+Hydrotherapy,-0.0
+Hotels,-0.0
+Music_None,-0.0
+House Sitters,-0.0
+Hungarian,-0.0
+Hunting & Fishing Supplies,-0.0
+Hybrid Car Repair,-0.0
+Hydro-jetting,-0.0
+Hydroponics,-0.0
+Hypnosis/Hypnotherapy,-0.0
+Imported Food,-0.0
+IP & Internet Law,-0.0
+IT Services & Computer Repair,-0.0
+IV Hydration,-0.0
+Iberian,-0.0
+Music_NA,-0.0
+Ice Delivery,-0.0
+Immigration Law,-0.0
+Immunodermatologists,-0.0
+Izakaya,-0.0
+Japanese,-0.0
+Graphic Design,-0.0
+Japanese Curry,-0.0
+HappyHour_NA,-0.0
+Kosher,-0.0
+LAN Centers,-0.0
+Laboratory Testing,-0.0
+Lactation Services,-0.0
+Lakes,-0.0
+Land Surveying,-0.0
+HairSpecializesIn_straightperms_True,-0.0
+Landscape Architects,-0.0
+Landscaping,-0.0
+Language Schools,-0.0
+Laotian,-0.0
+Laser Eye Surgery/Lasik,-0.0
+Laser Hair Removal,-0.0
+Laser Tag,-0.0
+HairSpecializesIn_straightperms_NA,-0.0
+Laundromat,-0.0
+Laundry Services,-0.0
+Lawn Services,-0.0
+Kombucha,-0.0
+Knitting Supplies,-0.0
+Knife Sharpening,-0.0
+Karaoke,-0.0
+Japanese Sweets,-0.0
+Jazz & Blues,-0.0
+Jet Skis,-0.0
+HasTV_False,-0.0
+Jewelry Repair,-0.0
+HappyHour_True,-0.0
+HappyHour_None,-0.0
+Junkyards,-0.0
+Karate,-0.0
+Kitchen Supplies,-0.0
+Kebab,-0.0
+Keys & Locksmiths,-0.0
+Kickboxing,-0.0
+Kids Activities,-0.0
+Kids Hair Salons,-0.0
+Kiosk,-0.0
+Kitchen & Bath,-0.0
+Kitchen Incubators,-0.0
+Hotel bar,-0.0
+Hot Tub & Pool,-0.0
+Hot Pot,-0.0
+Hot Dogs,-0.0
+Music_background_music_True,-0.0
+Halfway Houses,-0.0
+Halotherapy,-0.0
+Handyman,-0.0
+Hang Gliding,-0.0
+Hardware Stores,-0.0
+Hats,-0.0
+Haunted Houses,-0.0
+Hawaiian,-0.0
+Hazardous Waste Disposal,-0.0
+Head Shops,-0.0
+Music_background_music_NA,-0.0
+Health Coach,-0.0
+Health Insurance Offices,-0.0
+Health Markets,-0.0
+Health Retreats,-0.0
+Hearing Aid Providers,-0.0
+Hearing Aids,-0.0
+Heating & Air Conditioning/HVAC,-0.0
+Hakka,-0.0
+Haitian,-0.0
+Hair Stylists,-0.0
+Guns & Ammo,-0.0
+Greek,-0.0
+Grilling Equipment,-0.0
+Music_dj_True,-0.0
+Grout Services,-0.0
+Guamanian,-0.0
+Guest Houses,-0.0
+Music_dj_NA,-0.0
+Gun/Rifle Ranges,-0.0
+Gunsmith,-0.0
+Music_dj_False,-0.0
+Gutter Services,-0.0
+Gymnastics,-0.0
+Gyms,-0.0
+Habilitative Services,-0.0
+Hainan,-0.0
+Hair Extensions,-0.0
+Hair Loss Centers,-0.0
+Hair Removal,-0.0
+Henna Artists,-0.0
+Hepatologists,-0.0
+Herbal Shops,-0.0
+Hong Kong Style Cafe,-0.0
+Music_background_music_False,-0.0
+Home Theatre Installation,-0.0
+Home Window Tinting,-0.0
+Homeless Shelters,-0.0
+Homeopathic,-0.0
+Homeowner Association,-0.0
+Honduran,-0.0
+Honey,-0.0
+Hookah Bars,-0.0
+Home Organization,-0.0
+Horse Boarding,-0.0
+Horse Equipment Shops,-0.0
+Horse Racing,-0.0
+Horseback Riding,-0.0
+Hospice,-0.0
+Hospitals,-0.0
+Hostels,-0.0
+Hot Air Balloons,-0.0
+Home Services,-0.0
+Home Network Installation,-0.0
+Herbs & Spices,-0.0
+Holiday Decorations,-0.0
+High Fidelity Audio Equipment,-0.0
+Hiking,-0.0
+Himalayan/Nepalese,-0.0
+Hindu Temples,-0.0
+Historical Tours,-0.0
+Hobby Shops,-0.0
+Hockey Equipment,-0.0
+Holiday Decorating Services,-0.0
+Holistic Animal Care,-0.0
+Home Inspectors,-0.0
+Home & Garden,-0.0
+Home & Rental Insurance,-0.0
+Home Automation,-0.0
+Home Cleaning,-0.0
+Home Decor,-0.0
+Home Developers,-0.0
+Home Energy Auditors,-0.0
+Home Health Care,-0.0
+Delis,-0.0
+Delicatessen,-0.0
+Decks & Railing,-0.0
+Basketball Courts,-0.0
+Ayurveda,-0.0
+Baby Gear & Furniture,-0.0
+Backflow Services,-0.0
+Backshop,-0.0
+Badminton,-0.0
+Bagels,-0.0
+RestaurantsCounterService_False,-0.0
+Bakeries,-0.0
+Balloon Services,-0.0
+Bangladeshi,-0.0
+Bankruptcy Law,-0.0
+Banks & Credit Unions,-0.0
+Bar Crawl,-0.0
+Barbeque,-0.0
+Barbers,-0.0
+Barre Classes,-0.0
+Bars,-0.0
+Bartenders,-0.0
+Bartending Schools,-0.0
+Axe Throwing,-0.0
+Awnings,-0.0
+Aviation Services,-0.0
+Auto Customization,-0.0
+Assisted Living Facilities,-0.0
+Astrologers,-0.0
+Attraction Farms,-0.0
+Auction Houses,-0.0
+Audio/Visual Equipment Rental,-0.0
+Audiologist,-0.0
+Australian,-0.0
+Austrian,-0.0
+Auto Detailing,-0.0
+RestaurantsCounterService_NA,-0.0
+Auto Electric Services,-0.0
+Auto Glass Services,-0.0
+Auto Insurance,-0.0
+RestaurantsDelivery_False,-0.0
+Auto Parts & Supplies,-0.0
+RestaurantsCounterService_True,-0.0
+Auto Security,-0.0
+Auto Upholstery,-0.0
+Baseball Fields,-0.0
+Basque,-0.0
+Debt Relief Services,-0.0
+Battery Stores,-0.0
+Bike Sharing,-0.0
+Bike Shop,-0.0
+Bike tours,-0.0
+Bikes,-0.0
+Bingo Halls,-0.0
+Bird Shops,-0.0
+RestaurantsAttire_u'dressy',-0.0
+Blood & Plasma Donation Centers,-0.0
+Blow Dry/Out Services,-0.0
+Boat Charters,-0.0
+Boat Dealers,-0.0
+Boat Parts & Supplies,-0.0
+Boat Repair,-0.0
+Boat Tours,-0.0
+Boating,-0.0
+Bocce Ball,-0.0
+Body Contouring,-0.0
+Body Shops,-0.0
+Bookbinding,-0.0
+Bike Repair/Maintenance,-0.0
+Bike Repair,-0.0
+Bike Rentals,-0.0
+Beer Bar,-0.0
+Batting Cages,-0.0
+Beach Bars,-0.0
+Beach Equipment Rentals,-0.0
+Beach Volleyball,-0.0
+Beaches,-0.0
+RestaurantsAttire_u'formal',-0.0
+Bed & Breakfast,-0.0
+Beer,-0.0
+Beer Garden,-0.0
+Bike Parking,-0.0
+Beer Gardens,-0.0
+Beer Hall,-0.0
+Beer Tours,-0.0
+Behavior Analysts,-0.0
+Belgian,-0.0
+Bespoke Clothing,-0.0
+Beverage Store,-0.0
+Bicycles,-0.0
+RestaurantsDelivery_NA,-0.0
+RestaurantsDelivery_None,-0.0
+RestaurantsDelivery_True,-0.0
+Artificial Turf,-0.0
+RestaurantsReservations_None,-0.0
+& Probates,-0.0
+3D Printing,-0.0
+ATV Rentals/Tours,-0.0
+RestaurantsReservations_NA,-0.0
+Accessories,-0.0
+Accountants,-0.0
+Acne Treatment,-0.0
+RestaurantsReservations_False,-0.0
+Acupuncture,-0.0
+Addiction Medicine,-0.0
+Adoption Services,-0.0
+Adult,-0.0
+Adult Education,-0.0
+RestaurantsPriceRange2_None,-0.0
+Advertising,-0.0
+Aerial Fitness,-0.0
+Aerial Tours,-0.0
+Aestheticians,-0.0
+RestaurantsTableService_False,-0.0
+RestaurantsTableService_None,-0.0
+Thursday_avail,-0.0
+Smoking_u'yes',-0.0
+WiFi_u'free',-0.0
+WiFi_None,-0.0
+WiFi_NA,-0.0
+WiFi_'paid',-0.0
+WiFi_'no',-0.0
+WheelchairAccessible_True,-0.0
+WheelchairAccessible_None,-0.0
+Wednesday_close,-0.0
+Smoking_u'outdoor',-0.0
+RestaurantsTableService_True,-0.0
+Smoking_None,-0.0
+Smoking_NA,-0.0
+Smoking_'yes',-0.0
+Smoking_'outdoor',-0.0
+Smoking_'no',-0.0
+RestaurantsTakeOut_True,-0.0
+Monday_avail,-0.0
+RestaurantsTakeOut_None,-0.0
+Afghan,-0.0
+African,-0.0
+Air Duct Cleaning,-0.0
+Argentine,-0.0
+RestaurantsGoodForGroups_False,-0.0
+Aquarium Services,-0.0
+Aquariums,-0.0
+Arabian,-0.0
+Arcades,-0.0
+Archery,-0.0
+Architects,-0.0
+Architectural Tours,-0.0
+Armenian,-0.0
+Appliances,-0.0
+Art Classes,-0.0
+Art Galleries,-0.0
+Art Museums,-0.0
+Art Restoration,-0.0
+Art Schools,-0.0
+Art Space Rentals,-0.0
+Art Supplies,-0.0
+Art Tours,-0.0
+Appliances & Repair,-0.0
+RestaurantsGoodForGroups_None,-0.0
+Aircraft Dealers,-0.0
+Alternative Medicine,-0.0
+Aircraft Repairs,-0.0
+Airlines,-0.0
+Airport Lounges,-0.0
+Airport Shuttles,-0.0
+Airport Terminals,-0.0
+RestaurantsPriceRange2_NA,-0.0
+Airsoft,-0.0
+Allergists,-0.0
+Amateur Sports Teams,-0.0
+Apartment Agents,-0.0
+RestaurantsPriceRange2_4,-0.0
+RestaurantsGoodForGroups_True,-0.0
+Amusement Parks,-0.0
+Anesthesiologists,-0.0
+Animal Assisted Therapy,-0.0
+Animal Physical Therapy,-0.0
+Animal Shelters,-0.0
+Antiques,-0.0
+Bookkeepers,-0.0
+Books,-0.0
+Bookstores,-0.0
+Chimney Sweeps,-0.0
+College Counseling,-0.0
+Colleges & Universities,-0.0
+Colombian,-0.0
+Colonics,-0.0
+Comedy Clubs,-0.0
+Comfort Food,-0.0
+Comic Books,-0.0
+NoiseLevel_u'very_loud',-0.0
+Commercial Truck Dealers,-0.0
+Commercial Truck Repair,-0.0
+Commissioned Artists,-0.0
+Community Centers,-0.0
+Community Gardens,-0.0
+NoiseLevel_u'quiet',-0.0
+Computers,-0.0
+Concept Shops,-0.0
+Concierge Medicine,-0.0
+Condominiums,-0.0
+Contract Law,-0.0
+Coffeeshops,-0.0
+Coffee Roasteries,-0.0
+Coffee & Tea Supplies,-0.0
+Cigar Bars,-0.0
+Chinese Martial Arts,-0.0
+Chiropractors,-0.0
+Chocolatiers & Shops,-0.0
+Christmas Markets,-0.0
+Christmas Trees,-0.0
+Churches,-0.0
+Churros,-0.0
+Cideries,-0.0
+Open24Hours_False,-0.0
+Coffee & Tea,-0.0
+Circuit Training Gyms,-0.0
+Civic Center,-0.0
+Climbing,-0.0
+Clock Repair,-0.0
+Clothing Rental,-0.0
+Clowns,-0.0
+Club Crawl,-0.0
+Cocktail Bars,-0.0
+NoiseLevel_u'loud',-0.0
+Convenience Stores,-0.0
+Conveyor Belt Sushi,-0.0
+DUI Law,-0.0
+Custom Cakes,-0.0
+Customized Merchandise,-0.0
+Customs Brokers,-0.0
+Cycling Classes,-0.0
+Czech,-0.0
+Czech/Slovakian,-0.0
+DIY Auto Shop,-0.0
+DJs,-0.0
+DUI Schools,-0.0
+Cupcakes,-0.0
+Damage Restoration,-0.0
+NoiseLevel_'very_loud',-0.0
+Dance Schools,-0.0
+NoiseLevel_'quiet',-0.0
+Dance Wear,-0.0
+Data Recovery,-0.0
+Day Camps,-0.0
+NoiseLevel_'loud',-0.0
+Currency Exchange,-0.0
+Cultural Center,-0.0
+Cooking Classes,-0.0
+Country Clubs,-0.0
+Cooking Schools,-0.0
+Cosmetic Dentists,-0.0
+Cosmetic Surgeons,-0.0
+Cosmetics & Beauty Supply,-0.0
+Cosmetology Schools,-0.0
+NoiseLevel_None,-0.0
+Counseling & Mental Health,-0.0
+Countertop Installation,-0.0
+Country Dance Halls,-0.0
+Cuban,-0.0
+Couriers & Delivery Services,-0.0
+Court Reporters,-0.0
+Courthouses,-0.0
+Crane Services,-0.0
+Cremation Services,-0.0
+Creperies,-0.0
+NoiseLevel_NA,-0.0
+Cryotherapy,-0.0
+Chinese,-0.0
+Children's Museums,-0.0
+Boot Camps,-0.0
+Children's Clothing,-0.0
+Bus Rental,-0.0
+Bus Tours,-0.0
+Buses,-0.0
+Business Consulting,-0.0
+Business Financing,-0.0
+Business Law,-0.0
+Butcher,-0.0
+CPR Classes,-0.0
+CSA,-0.0
+Cabaret,-0.0
+Cabinetry,-0.0
+Cafes,-0.0
+Cafeteria,-0.0
+Cajun/Creole,-0.0
+Calabrian,-0.0
+Calligraphy,-0.0
+Cambodian,-0.0
+Campgrounds,-0.0
+Canadian (New),-0.0
+Burmese,-0.0
+RestaurantsAttire_'dressy',-0.0
+Bulgarian,-0.0
+Breakfast & Brunch,-0.0
+Botanical Gardens,-0.0
+Boudoir Photography,-0.0
+Bounce House Rentals,-0.0
+Bowling,-0.0
+RestaurantsAttire_None,-0.0
+Brasseries,-0.0
+Brazilian,-0.0
+Brazilian Jiu-jitsu,-0.0
+Breweries,-0.0
+Building Supplies,-0.0
+Brewing Supplies,-0.0
+Brewpubs,-0.0
+RestaurantsAttire_NA,-0.0
+British,-0.0
+Bubble Soccer,-0.0
+Bubble Tea,-0.0
+Buddhist Temples,-0.0
+RestaurantsAttire_'formal',-0.0
+Candle Stores,-0.0
+Candy Stores,-0.0
+Cannabis Clinics,-0.0
+Open24Hours_NA,-0.0
+Carpet Dyeing,-0.0
+Carpet Installation,-0.0
+Open24Hours_True,-0.0
+Casinos,-0.0
+Caterers,-0.0
+Ceremonial Clothing,-0.0
+Challenge Courses,-0.0
+Champagne Bars,-0.0
+Cheerleading,-0.0
+Carpenters,-0.0
+Cheese Shops,-0.0
+Cheese Tasting Classes,-0.0
+Cheesesteaks,-0.0
+Chicken Shop,-0.0
+Chicken Wings,-0.0
+Child Care & Day Care,-0.0
+Childbirth Education,-0.0
+Childproofing,-0.0
+OutdoorSeating_None,-0.0
+Carousels,-0.0
+Cannabis Collective,-0.0
+Car Rental,-0.0
+Cannabis Dispensaries,-0.0
+Cannabis Tours,-0.0
+Cantonese,-0.0
+Car Auctions,-0.0
+Car Brokers,-0.0
+Car Buyers,-0.0
+Car Dealers,-0.0
+Car Inspectors,-0.0
+Car Share Services,-0.0
+Caricatures,-0.0
+Car Stereo Installation,-0.0
+RestaurantsAttire_'casual',-0.0
+Car Window Tinting,-0.0
+Cardio Classes,-0.0
+Cardiologists,-0.0
+Cards & Stationery,-0.0
+Career Counseling,-0.0
+Caribbean,-0.0
+HairSpecializesIn_straightperms_False,-0.0
+Leather Goods,-0.0
+Lebanese,-0.0
+Tiling,-0.0
+Tea Rooms,-0.0
+Teacher Supplies,-0.0
+Team Building Activities,-0.0
+Teeth Whitening,-0.0
+Telecommunications,-0.0
+Television Service Providers,-0.0
+Television Stations,-0.0
+Tempura,-0.0
+Tenant and Eviction Law,-0.0
+Tennis,-0.0
+Teppanyaki,-0.0
+Test Preparation,-0.0
+DietaryRestrictions_vegetarian_True,-0.0
+Thai,-0.0
+Themed Cafes,-0.0
+Threading Services,-0.0
+DietaryRestrictions_vegetarian_NA,-0.0
+Ticket Sales,-0.0
+Tickets,-0.0
+Taxis,-0.0
+Taxidermy,-0.0
+Tax Services,-0.0
+Tai Chi,-0.0
+Synagogues,-0.0
+Syrian,-0.0
+DogsAllowed_None,-0.0
+TV Mounting,-0.0
+Tabletop Games,-0.0
+Tableware,-0.0
+Tacos,-0.0
+Taekwondo,-0.0
+Taiwanese,-0.0
+Tax Law,-0.0
+Talent Agencies,-0.0
+Tanning,-0.0
+Tanning Beds,-0.0
+Tapas Bars,-0.0
+Tapas/Small Plates,-0.0
+Tasting Classes,-0.0
+DogsAllowed_NA,-0.0
+DogsAllowed_False,-0.0
+Tiki Bars,-0.0
+Tires,-0.0
+Sex Therapists,-0.0
+Title Loans,-0.0
+Travel Agents,-0.0
+Travel Services,-0.0
+Tree Services,-0.0
+Trinidadian,-0.0
+Trivia Hosts,-0.0
+Trophy Shops,-0.0
+Truck Rental,-0.0
+Trusts,-0.0
+Tubing,-0.0
+Tui Na,-0.0
+Turkish,-0.0
+Tuscan,-0.0
+DietaryRestrictions_vegan_NA,-0.0
+Udon,-0.0
+Ukrainian,-0.0
+Ultrasound Imaging Centers,-0.0
+Undersea/Hyperbaric Medicine,-0.0
+Uniforms,-0.0
+University Housing,-0.0
+DietaryRestrictions_vegan_True,-0.0
+Transmission Repair,-0.0
+Translation Services,-0.0
+Traditional Chinese Medicine,-0.0
+Tobacco Shops,-0.0
+Tonkatsu,-0.0
+Tours,-0.0
+Towing,-0.0
+Town Car Service,-0.0
+Town Hall,-0.0
+Toxicologists,-0.0
+Toy Stores,-0.0
+Traditional Clothing,-0.0
+Trampoline Parks,-0.0
+Traffic Schools,-0.0
+Traffic Ticketing Law,-0.0
+Trailer Dealers,-0.0
+Trailer Rental,-0.0
+Trailer Repair,-0.0
+Train Stations,-0.0
+DietaryRestrictions_vegetarian_False,-0.0
+Trains,-0.0
+Swiss Food,-0.0
+Swimwear,-0.0
+Swimming Pools,-0.0
+DriveThru_False,-0.0
+Skiing,-0.0
+Skilled Nursing,-0.0
+GoodForDancing_None,-0.0
+Skydiving,-0.0
+Sledding,-0.0
+Sleep Specialists,-0.0
+Slovakian,-0.0
+Smog Check Stations,-0.0
+Smokehouse,-0.0
+Snorkeling,-0.0
+Snow Removal,-0.0
+Soba,-0.0
+Soccer,-0.0
+GoodForDancing_NA,-0.0
+Social Security Law,-0.0
+Software Development,-0.0
+Solar Installation,-0.0
+Solar Panel Cleaning,-0.0
+DriveThru_True,-0.0
+Ski Schools,-0.0
+Ski Resorts,-0.0
+Ski & Snowboard Shops,-0.0
+GoodForKids_NA,-0.0
+Shanghainese,-0.0
+Shared Office Spaces,-0.0
+Shaved Ice,-0.0
+Shaved Snow,-0.0
+Shipping Centers,-0.0
+Shoe Repair,-0.0
+Shoe Shine,-0.0
+Shoe Stores,-0.0
+Shopping Centers,-0.0
+Skating Rinks,-0.0
+Shredding Services,-0.0
+Shutters,-0.0
+GoodForDancing_True,-0.0
+Siding,-0.0
+Signmaking,-0.0
+Singaporean,-0.0
+Skate Parks,-0.0
+Skate Shops,-0.0
+Soup,-0.0
+South African,-0.0
+Southern,-0.0
+Sugaring,-0.0
+Street Art,-0.0
+Street Vendors,-0.0
+Strip Clubs,-0.0
+Striptease Dancers,-0.0
+Structural Engineers,-0.0
+Stucco Services,-0.0
+Studio Taping,-0.0
+Sugar Shacks,-0.0
+Summer Camps,-0.0
+DriveThru_None,-0.0
+DriveThru_NA,-0.0
+Supernatural Readings,-0.0
+Supper Clubs,-0.0
+Surf Schools,-0.0
+Surf Shop,-0.0
+Surfing,-0.0
+Surgeons,-0.0
+Sushi Bars,-0.0
+Storefront Clinics,-0.0
+Stadiums & Arenas,-0.0
+Souvenir Shops,-0.0
+Spiritual Shop,-0.0
+Spanish,-0.0
+Speakeasies,-0.0
+Special Education,-0.0
+Specialty Food,-0.0
+Specialty Schools,-0.0
+Speech Therapists,-0.0
+Spin Classes,-0.0
+Spine Surgeons,-0.0
+Sport Equipment Hire,-0.0
+Sri Lankan,-0.0
+Sporting Goods,-0.0
+Sports Bars,-0.0
+Sports Clubs,-0.0
+Sports Medicine,-0.0
+Sports Psychologists,-0.0
+Sports Wear,-0.0
+Spray Tanning,-0.0
+Squash,-0.0
+Unofficial Yelp Events,-0.0
+Urgent Care,-0.0
+Urologists,-0.0
+Alcohol_u'beer_and_wine',-0.0
+Ambience_touristy_NA,-0.0
+Ambience_touristy_True,-0.0
+Ambience_trendy_False,-0.0
+Ambience_trendy_NA,-0.0
+Ambience_trendy_True,-0.0
+Ambience_upscale_False,-0.0
+Ambience_upscale_NA,-0.0
+Ambience_upscale_True,-0.0
+BYOB_False,-0.0
+BYOB_NA,-0.0
+BYOB_True,-0.0
+BYOBCorkage_'no',-0.0
+BYOBCorkage_'yes_corkage',-0.0
+BYOBCorkage_'yes_free',-0.0
+BYOBCorkage_NA,-0.0
+BYOBCorkage_None,-0.0
+BYOBCorkage_u'no',-0.0
+BYOBCorkage_u'yes_corkage',-0.0
+BYOBCorkage_u'yes_free',-0.0
+Ambience_touristy_False,-0.0
+Ambience_romantic_True,-0.0
+Ambience_romantic_NA,-0.0
+Ambience_classy_True,-0.0
+Alcohol_u'none',-0.0
+DietaryRestrictions_dairy-free_True,-0.0
+Ambience_None,-0.0
+DietaryRestrictions_dairy-free_NA,-0.0
+Ambience_casual_NA,-0.0
+Ambience_casual_True,-0.0
+Ambience_classy_False,-0.0
+Ambience_classy_NA,-0.0
+DietaryRestrictions_dairy-free_False,-0.0
+Corkage_True,-0.0
+Ambience_divey_NA,-0.0
+DietaryRestrictions_None,-0.0
+Ambience_hipster_False,-0.0
+Ambience_hipster_NA,-0.0
+DietaryRestrictions_NA,-0.0
+Ambience_intimate_False,-0.0
+Ambience_intimate_NA,-0.0
+Ambience_intimate_True,-0.0
+BestNights_NA,-0.0
+BestNights_None,-0.0
+Corkage_NA,-0.0
+BusinessAcceptsCreditCards_True,-0.0
+Corkage_False,-0.0
+CoatCheck_True,-0.0
+CoatCheck_None,-0.0
+BusinessAcceptsBitcoin_None,-0.0
+BusinessAcceptsBitcoin_True,-0.0
+CoatCheck_NA,-0.0
+CoatCheck_False,-0.0
+BusinessAcceptsCreditCards_None,-0.0
+Caters_True,-0.0
+BikeParking_NA,-0.0
+BusinessParking_None,-0.0
+Caters_None,-0.0
+BusinessParking_garage_NA,-0.0
+Caters_NA,-0.0
+ByAppointmentOnly_None,-0.0
+BusinessParking_lot_NA,-0.0
+BusinessParking_validated_False,-0.0
+BusinessParking_valet_True,-0.0
+BikeParking_None,-0.0
+BikeParking_False,-0.0
+BestNights_friday_NA,-0.0
+BestNights_sunday_NA,-0.0
+BestNights_friday_True,-0.0
+BestNights_monday_False,-0.0
+BestNights_monday_NA,-0.0
+BestNights_monday_True,-0.0
+BestNights_saturday_False,-0.0
+BestNights_saturday_NA,-0.0
+BestNights_saturday_True,-0.0
+BestNights_sunday_False,-0.0
+BestNights_sunday_True,-0.0
+BestNights_wednesday_True,-0.0
+BestNights_thursday_False,-0.0
+BestNights_thursday_NA,-0.0
+BestNights_thursday_True,-0.0
+BestNights_tuesday_False,-0.0
+BestNights_tuesday_NA,-0.0
+BestNights_tuesday_True,-0.0
+BestNights_wednesday_False,-0.0
+BestNights_wednesday_NA,-0.0
+Alcohol_u'full_bar',-0.0
+Alcohol_None,-0.0
+Used,-0.0
+DietaryRestrictions_gluten-free_False,-0.0
+Vintage & Consignment,-0.0
+Vinyl Records,-0.0
+Virtual Reality Centers,-0.0
+Visitor Centers,-0.0
+Vitamins & Supplements,-0.0
+Vocal Coach,-0.0
+Vocational & Technical School,-0.0
+Waffles,-0.0
+Waldorf Schools,-0.0
+Walk-in Clinics,-0.0
+Walking Tours,-0.0
+Wallpapering,-0.0
+Watch Repair,-0.0
+Watches,-0.0
+Water Delivery,-0.0
+Water Heater Installation/Repair,-0.0
+Water Parks,-0.0
+Water Purification Services,-0.0
+Water Stores,-0.0
+DietaryRestrictions_soy-free_NA,-0.0
+Videos & Video Game Rental,-0.0
+Videographers,-0.0
+Vascular Medicine,-0.0
+Used Bookstore,-0.0
+Used Car Dealers,-0.0
+Utilities,-0.0
+Uzbek,-0.0
+Vacation Rental Agents,-0.0
+DietaryRestrictions_vegan_False,-0.0
+Valet Services,-0.0
+Vape Shops,-0.0
+Vegan,-0.0
+Video/Film Production,-0.0
+Vegetarian,-0.0
+Vehicle Shipping,-0.0
+Vehicle Wraps,-0.0
+Venezuelan,-0.0
+Venues & Event Spaces,-0.0
+Veterans Organizations,-0.0
+DietaryRestrictions_soy-free_True,-0.0
+Video Game Stores,-0.0
+Water Suppliers,-0.0
+Waterproofing,-0.0
+Waxing,-0.0
+DietaryRestrictions_halal_False,-0.0
+DietaryRestrictions_halal_NA,-0.0
+Yelp Events,-0.0
+Yoga,-0.0
+Ziplining,-0.0
+Zoos,-0.0
+AcceptsInsurance_False,-0.0
+AcceptsInsurance_NA,-0.0
+AcceptsInsurance_None,-0.0
+AgesAllowed_NA,-0.0
+Women's Clothing,-0.0
+AgesAllowed_None,-0.0
+AgesAllowed_u'18plus',-0.0
+AgesAllowed_u'19plus',-0.0
+AgesAllowed_u'21plus',-0.0
+AgesAllowed_u'allages',-0.0
+Alcohol_'beer_and_wine',-0.0
+DietaryRestrictions_gluten-free_True,-0.0
+DietaryRestrictions_gluten-free_NA,-0.0
+Workers Compensation Law,-0.0
+Wineries,-0.0
+Web Design,-0.0
+Wigs,-0.0
+Wedding Chapels,-0.0
+DietaryRestrictions_soy-free_False,-0.0
+DietaryRestrictions_kosher_NA,-0.0
+Well Drilling,-0.0
+Wheel & Rim Repair,-0.0
+Whiskey Bars,-0.0
+DietaryRestrictions_kosher_False,-0.0
+Wholesalers,-0.0
+Wildlife Control,-0.0
+Wine Tours,-0.0
+Wills,-0.0
+Window Washing,-0.0
+Windows Installation,-0.0
+Windshield Installation & Repair,-0.0
+Wine & Spirits,-0.0
+DietaryRestrictions_halal_True,-0.0
+Wine Tasting Classes,-0.0
+Wine Tasting Room,-0.0
+Shades & Blinds,-0.0
+Sewing & Alterations,-0.0
+Legal Services,-0.0
+Optometrists,-0.0
+HairSpecializesIn_asian_True,-0.0
+HairSpecializesIn_asian_NA,-0.0
+Notaries,-0.0
+Nudist,-0.0
+Nurse Practitioner,-0.0
+Nurseries & Gardening,-0.0
+Nursing Schools,-0.0
+Nutritionists,-0.0
+Oaxacan,-0.0
+Observatories,-0.0
+Obstetricians & Gynecologists,-0.0
+Occupational Therapy,-0.0
+Office Cleaning,-0.0
+Office Equipment,-0.0
+Officiants,-0.0
+HairSpecializesIn_asian_False,-0.0
+Olive Oil,-0.0
+Oncologist,-0.0
+Opera & Ballet,-0.0
+Nicaraguan,-0.0
+Newspapers & Magazines,-0.0
+New Mexican Cuisine,-0.0
+Musical Instruments & Teachers,-0.0
+Muay Thai,-0.0
+Municipality,-0.0
+HairSpecializesIn_curly_False,-0.0
+Music & DVDs,-0.0
+Music & Video,-0.0
+Music Production Services,-0.0
+HairSpecializesIn_coloring_True,-0.0
+HairSpecializesIn_coloring_NA,-0.0
+Musicians,-0.0
+Neurotologists,-0.0
+HairSpecializesIn_coloring_False,-0.0
+Nail Technicians,-0.0
+Nanny Services,-0.0
+WiFi_u'no',-0.0
+Naturopathic/Holistic,-0.0
+Nephrologists,-0.0
+Neurologist,-0.0
+Neuropathologists,-0.0
+Ophthalmologists,-0.0
+HairSpecializesIn_africanamerican_True,-0.0
+Session Photography,-0.0
+HairSpecializesIn_africanamerican_NA,-0.0
+Parenting Classes,-0.0
+Parking,-0.0
+Parks,-0.0
+HairSpecializesIn_None,-0.0
+Party Bike Rentals,-0.0
+Party Bus Rentals,-0.0
+Party Characters,-0.0
+Party Equipment Rentals,-0.0
+Party Supplies,-0.0
+Passport & Visa Services,-0.0
+Pasta Shops,-0.0
+Patent Law,-0.0
+Pathologists,-0.0
+Patio Coverings,-0.0
+Patisserie/Cake Shop,-0.0
+Pawn Shops,-0.0
+Payroll Services,-0.0
+Pediatric Dentists,-0.0
+Pediatricians,-0.0
+Pan Asian,-0.0
+Pakistani,-0.0
+Painters,-0.0
+Outdoor Movies,-0.0
+Orthodontists,-0.0
+Orthopedists,-0.0
+Orthotics,-0.0
+Osteopathic Physicians,-0.0
+Osteopaths,-0.0
+Otologists,-0.0
+Outdoor Furniture Stores,-0.0
+Outdoor Gear,-0.0
+Outlet Stores,-0.0
+Paintball,-0.0
+Oxygen Bars,-0.0
+Packing Services,-0.0
+Packing Supplies,-0.0
+Paddleboarding,-0.0
+Pain Management,-0.0
+HairSpecializesIn_africanamerican_False,-0.0
+Paint Stores,-0.0
+Paint-Your-Own Pottery,-0.0
+HairSpecializesIn_curly_NA,-0.0
+Mountain Biking,-0.0
+Motorsport Vehicle Repairs,-0.0
+Motorsport Vehicle Dealers,-0.0
+Mags,-0.0
+Mailbox Centers,-0.0
+Makerspaces,-0.0
+HairSpecializesIn_perms_False,-0.0
+Malaysian,-0.0
+Marinas,-0.0
+Market Stalls,-0.0
+Marketing,-0.0
+Martial Arts,-0.0
+Masonry/Concrete,-0.0
+HairSpecializesIn_kids_True,-0.0
+HairSpecializesIn_kids_NA,-0.0
+Massage Schools,-0.0
+Massage Therapy,-0.0
+Matchmakers,-0.0
+Maternity Wear,-0.0
+HairSpecializesIn_kids_False,-0.0
+Mauritius,-0.0
+HairSpecializesIn_extensions_True,-0.0
+Magicians,-0.0
+Machine Shops,-0.0
+Machine & Tool Rental,-0.0
+Linens,-0.0
+Leisure Centers,-0.0
+Libraries,-0.0
+Lice Services,-0.0
+Life Coach,-0.0
+Life Insurance,-0.0
+Lighting Fixtures & Equipment,-0.0
+Lighting Stores,-0.0
+HairSpecializesIn_perms_True,-0.0
+Lingerie,-0.0
+Macarons,-0.0
+Live/Raw Food,-0.0
+Livestock Feed & Supply,-0.0
+Local Fish Stores,-0.0
+Local Flavor,-0.0
+HairSpecializesIn_perms_NA,-0.0
+Lounges,-0.0
+Luggage,-0.0
+Luggage Storage,-0.0
+Mediators,-0.0
+Medical Cannabis Referrals,-0.0
+Medical Centers,-0.0
+Montessori Schools,-0.0
+Mobile Home Parks,-0.0
+Mobile Home Repair,-0.0
+Mobile Phone Accessories,-0.0
+Mobile Phone Repair,-0.0
+Mobile Phones,-0.0
+Mobility Equipment Sales & Services,-0.0
+Modern European,-0.0
+Mongolian,-0.0
+Moroccan,-0.0
+Mobile Dent Repair,-0.0
+HairSpecializesIn_extensions_False,-0.0
+HairSpecializesIn_curly_True,-0.0
+Mortuary Services,-0.0
+Mosques,-0.0
+Motorcycle Dealers,-0.0
+Motorcycle Gear,-0.0
+Motorcycle Rental,-0.0
+Motorcycle Repair,-0.0
+Mobile Home Dealers,-0.0
+Misting System Services,-0.0
+Medical Foot Care,-0.0
+Men's Hair Salons,-0.0
+Medical Law,-0.0
+Medical Spas,-0.0
+Medical Supplies,-0.0
+Medical Transportation,-0.0
+Meditation Centers,-0.0
+Mediterranean,-0.0
+Memory Care,-0.0
+Men's Clothing,-0.0
+Metal Fabricators,-0.0
+Mini Golf,-0.0
+Metro Stations,-0.0
+HairSpecializesIn_extensions_NA,-0.0
+Middle Eastern,-0.0
+Middle Schools & High Schools,-0.0
+Midwives,-0.0
+Military Surplus,-0.0
+Milkshake Bars,-0.0
+Minho,-0.0
+Pedicabs,-0.0
+Performing Arts,-0.0
+Perfume,-0.0
+Psychologists,-0.0
+Ranches,-0.0
+Real Estate,-0.0
+GoodForMeal_brunch_NA,-0.0
+Real Estate Law,-0.0
+Real Estate Photography,-0.0
+GoodForMeal_brunch_False,-0.0
+Recording & Rehearsal Studios,-0.0
+Recreation Centers,-0.0
+Recycling Center,-0.0
+Refinishing Services,-0.0
+GoodForMeal_breakfast_True,-0.0
+Registration Services,-0.0
+Registry Office,-0.0
+Rehabilitation Center,-0.0
+GoodForMeal_breakfast_NA,-0.0
+Religious Items,-0.0
+Religious Organizations,-0.0
+Religious Schools,-0.0
+Reptile Shops,-0.0
+Ramen,-0.0
+Rafting/Kayaking,-0.0
+Radiologists,-0.0
+Pulmonologist,-0.0
+Public Adjusters,-0.0
+Public Art,-0.0
+Public Markets,-0.0
+Public Relations,-0.0
+GoodForMeal_brunch_True,-0.0
+Public Transportation,-0.0
+Pubs,-0.0
+Puerto Rican,-0.0
+Pumpkin Patches,-0.0
+Radio Stations,-0.0
+Qi Gong,-0.0
+RV Dealers,-0.0
+RV Parks,-0.0
+RV Rental,-0.0
+RV Repair,-0.0
+Race Tracks,-0.0
+Races & Competitions,-0.0
+Racing Experience,-0.0
+GoodForMeal_breakfast_False,-0.0
+Rest Stops,-0.0
+Restaurant Supplies,-0.0
+Seafood,-0.0
+Scandinavian,-0.0
+Scavenger Hunts,-0.0
+Scooter Rentals,-0.0
+Scooter Tours,-0.0
+Scottish,-0.0
+Screen Printing,-0.0
+Screen Printing/T-Shirt Printing,-0.0
+Scuba Diving,-0.0
+Seafood Markets,-0.0
+Sauna Installation & Repair,-0.0
+Security Services,-0.0
+Security Systems,-0.0
+GoodForKids_None,-0.0
+Self-defense Classes,-0.0
+Senegalese,-0.0
+Senior Centers,-0.0
+Septic Services,-0.0
+Service Stations,-0.0
+Saunas,-0.0
+GoodForMeal_NA,-0.0
+Restaurants,-0.0
+Roof Inspectors,-0.0
+Retina Specialists,-0.0
+Retirement Homes,-0.0
+Reunion,-0.0
+Rheumatologists,-0.0
+Roadside Assistance,-0.0
+Rock Climbing,-0.0
+Rodeo,-0.0
+Rolfing,-0.0
+Roofing,-0.0
+Sandblasting,-0.0
+Rotisserie Chicken,-0.0
+Rugs,-0.0
+Russian,-0.0
+Safe Stores,-0.0
+Safety Equipment,-0.0
+Sailing,-0.0
+GoodForMeal_None,-0.0
+Salvadoran,-0.0
+Pub Food,-0.0
+Psychics,-0.0
+Periodontists,-0.0
+Psychic Mediums,-0.0
+Pet Waste Removal,-0.0
+GoodForMeal_lunch_True,-0.0
+Petting Zoos,-0.0
+Pharmacy,-0.0
+Phlebologists,-0.0
+Photo Booth Rentals,-0.0
+Photographers,-0.0
+Photography Classes,-0.0
+Photography Stores & Services,-0.0
+Physical Therapy,-0.0
+Piano Bars,-0.0
+Piano Services,-0.0
+Piano Stores,-0.0
+Pick Your Own Farms,-0.0
+Piercing,-0.0
+Pilates,-0.0
+Pita,-0.0
+GoodForMeal_lunch_NA,-0.0
+Placenta Encapsulations,-0.0
+Pet Transportation,-0.0
+Pet Training,-0.0
+Pet Stores,-0.0
+Pest Control,-0.0
+Permanent Makeup,-0.0
+Persian/Iranian,-0.0
+Personal Assistants,-0.0
+Personal Care Services,-0.0
+Personal Chefs,-0.0
+Personal Injury Law,-0.0
+Personal Shopping,-0.0
+Peruvian,-0.0
+HairSpecializesIn_NA,-0.0
+Pet Sitting,-0.0
+Pet Boarding,-0.0
+Pet Breeders,-0.0
+Pet Cremation Services,-0.0
+Pet Groomers,-0.0
+Pet Hospice,-0.0
+Pet Insurance,-0.0
+Pet Photography,-0.0
+Pet Services,-0.0
+Planetarium,-0.0
+Plastic Surgeons,-0.0
+Playgrounds,-0.0
+Proctologists,-0.0
+Preventive Medicine,-0.0
+Print Media,-0.0
+Printing Services,-0.0
+Private Investigation,-0.0
+GoodForMeal_dinner_False,-0.0
+Private Schools,-0.0
+Private Tutors,-0.0
+Process Servers,-0.0
+Product Design,-0.0
+Pressure Washers,-0.0
+GoodForMeal_dessert_NA,-0.0
+Professional Sports Teams,-0.0
+Propane,-0.0
+GoodForMeal_dessert_False,-0.0
+Props,-0.0
+Prosthetics,-0.0
+Prosthodontists,-0.0
+Psychiatrists,-0.0
+Pretzels,-0.0
+GoodForMeal_dinner_NA,-0.0
+Playsets,-0.0
+Pool & Hot Tub Service,-0.0
+Plumbing,-0.0
+Plus Size Fashion,-0.0
+Podiatrists,-0.0
+Poke,-0.0
+Pole Dancing Classes,-0.0
+GoodForMeal_latenight_True,-0.0
+Polish,-0.0
+Pool & Billiards,-0.0
+GoodForMeal_latenight_NA,-0.0
+Prenatal/Perinatal Care,-0.0
+Pool Halls,-0.0
+Pop-Up Restaurants,-0.0
+Pop-up Shops,-0.0
+Popcorn Shops,-0.0
+Portuguese,-0.0
+GoodForMeal_dinner_True,-0.0
+Poutineries,-0.0
+Powder Coating,-0.0
+Natural Gas Suppliers,-0.0
