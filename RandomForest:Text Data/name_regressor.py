@@ -16,7 +16,8 @@ m, d = df.shape
 crimes_df = pd.DataFrame(np.random.randint(0, 10, size=(m, 1)), columns=['crime_num'])
 
 # TRAIN RANDOM FOREST REGRESSION MODEL ON RESTAURANT NAMES
-# Later train on review data in the future
+# Note that this entire model was scrapped because the data was extremely sparse.
+# Instead, we use reviews data to predict crimes which has much more crime data.
 
 # First clean the text data
 import re

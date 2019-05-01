@@ -5,7 +5,7 @@ import numpy as np
 import ast
 
 # Load the dataframe    
-df = pd.read_json('yelp_dataset/business.json', lines=True)
+df = pd.read_json('business.json', lines=True)
 df_short = df.head()
 
 
@@ -22,7 +22,7 @@ df_short = df.head()
 
 
 # Shrink Data into core dataframe (we will keep business ID as a label)
-df_core = df.drop(['address', 'city', 'latitude', 'longitude', 'state'], axis = 1)
+df_core = df.drop(['address', 'latitude', 'longitude'], axis = 1)
 df_core.columns
 
 # Drop all rows where the zipcodes are not part of the label space (later when we get zip codes)
@@ -30,7 +30,7 @@ df_core.columns
 # One hot encoding on categories
 
 rows, cols = df_core.shape
-rows = 192609
+#rows = 192609
 
 print('PROCESSING CATEGORIES')
 # Retrieve the categories
@@ -186,9 +186,7 @@ data_final = pd.concat([df_super_core, total_hours_df, categories_df, attributes
 names_df = data_final[['business_id', 'name']]
 numerical_df = data_final.drop(columns=['name'])
 
-data_final.to_csv('data_finalized.csv', index=False)
-                
-        
+data_final.to_csv('data_finalized_with_city.csv')
         
 
     
