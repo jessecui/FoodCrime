@@ -22,3 +22,5 @@ For our final ensemble model, we retrieved the weights of the individual models 
 | CNN  | Drinks Images  | 0.0701 |
 | CNN  | Outside Photos  | 0.0131 |
 | CNN  | Inside Photos  | 0.0672 |
+
+Just as equally important for the results are the insights we can derive, such as which store attributes and words are more correlated with neighborhood crime. Please check the Results directory for further information. 
