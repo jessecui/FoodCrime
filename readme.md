@@ -40,6 +40,8 @@ MSE: 308.74
 
 MSE: 408.47
 
+### Feature Interpretations
+
 Just as equally important for the results are the insights we can derive, such as which store attributes and words are more correlated with neighborhood crime. Please check the Results directory for further information. Below is a figure that highlights the top predictors for property crime in the numerical data model as well as the direction of their predictions. Red points on the right means predictors for higher crime while red points on the left means predictors for lower crime. Note that 'Thursday_open' and 'Thursday_close' means the opening and closing time respectively of a restaurant on Thursday, while 'Thursday_avail' indicates whether a restaurant is open at all on Thursday.
 
 ![Property Crime Figure](./Results/Property_XGB.png?raw=true "Top Property Crime Predictors")
