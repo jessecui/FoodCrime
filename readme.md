@@ -14,13 +14,30 @@ Our models show improvements from a baseline MSE involving random data. For the 
 
 For our final ensemble model, we retrieved the weights of the individual models as shown below. The text and numerical data models had the highest weights, largely attributed to the sparsity of image data for restaurants.
 
+### Property Crime
+
 | Model  | Data | Weight |
 | ------------- | ------------- | ------------- |
-| Random Forest  | Text Review Data  | 0.9262 |
-| XGBoost  | Business Attributes  | 0.7078 |
-| CNN  | Food Images  | -0.1232 |
-| CNN  | Drinks Images  | 0.0701 |
-| CNN  | Outside Photos  | 0.0131 |
-| CNN  | Inside Photos  | 0.0672 |
+| Random Forest  | Text Review Data  | 0.907 |
+| XGBoost  | Business Attributes  | 0.790 |
+| CNN  | Food Images  | -0.238 |
+| CNN  | Drinks Images  | 0.045 |
+| CNN  | Outside Photos  | 0.074 |
+| CNN  | Inside Photos  | 0.0110 |
+
+MSE: 308.74
+
+### Violent Crime
+
+| Model  | Data | Weight |
+| ------------- | ------------- | ------------- |
+| Random Forest  | Text Review Data  | 0.926 |
+| XGBoost  | Business Attributes  | 0.708 |
+| CNN  | Food Images  | -0.123 |
+| CNN  | Drinks Images  | 0.070 |
+| CNN  | Outside Photos  | 0.013 |
+| CNN  | Inside Photos  | 0.067 |
+
+MSE: 408.47
 
 Just as equally important for the results are the insights we can derive, such as which store attributes and words are more correlated with neighborhood crime. Please check the Results directory for further information. 
