@@ -606,8 +606,8 @@ for i in range(len(test_business_ids)):
     drinkPhotos_df = dphotos_df[criteria2]
 
     if (drinkPhotos_df.empty):
-        dPreT.append(statistics.mean(drinkValScoresT))
-        dPrePT.append(statistics.mean(dValPT))
+        dPreT.append(np.mean(drinkValScoresT))
+        dPrePT.append(np.mean(dValPT))
     else:
         dPreT.append(drinkValScoresT[itIndex1])
         dPrePT.append(dValPT[itIndex1])
@@ -617,8 +617,8 @@ for i in range(len(test_business_ids)):
     foodPhotos_df = fphotos_df[criteria2]
 
     if (foodPhotos_df.empty):
-        fPreT.append(statistics.mean(foodValScoresT))
-        fPrePT.append(statistics.mean(fValPT))
+        fPreT.append(np.mean(foodValScoresT))
+        fPrePT.append(np.mean(fValPT))
     else:
         fPreT.append(foodValScoresT[itIndex2])
         fPrePT.append(fValPT[itIndex2])
@@ -628,8 +628,8 @@ for i in range(len(test_business_ids)):
     outPhotos_df = ophotos_df[criteria2]
 
     if (outPhotos_df.empty):
-        oPreT.append(statistics.mean(outValScoresT))
-        oPrePT.append(statistics.mean(oValPT))
+        oPreT.append(np.mean(outValScoresT))
+        oPrePT.append(np.mean(oValPT))
     else:
         oPreT.append(outValScoresT[itIndex3])
         oPrePT.append(oValPT[itIndex3])
@@ -639,8 +639,8 @@ for i in range(len(test_business_ids)):
     inPhotos_df = iphotos_df[criteria2]
 
     if (inPhotos_df.empty):
-        iPreT.append(statistics.mean(inValScoresT))
-        iPrePT.append(statistics.mean(iValPT))
+        iPreT.append(np.mean(inValScoresT))
+        iPrePT.append(np.mean(iValPT))
     else:
         iPreT.append(inValScoresT[itIndex4])
         iPrePT.append(iValPT[itIndex4])
@@ -648,17 +648,17 @@ for i in range(len(test_business_ids)):
 
 from sklearn.metrics import mean_squared_error
 
-X_VT = (np.vstack(rfPredictionsViolentT, xgbPredictionsViolentT, np.array(fPreT), np.array(dPreT), np.array(oPreT),
-                np.array(iPreT))).transpose()
+X_VT = (np.vstack((rfPredictionsViolentT, xgbPredictionsViolentT, np.array(fPreT), np.array(dPreT), np.array(oPreT),
+                np.array(iPreT)))).transpose()
 
-X_PT = (np.vstack(rfPredictionsPropertyT, xgbPredictionsPropertyT, np.array(fPrePT), np.array(dPrePT), np.array(oPrePT),
-                np.array(iPrePT))).transpose()
+X_PT = (np.vstack((rfPredictionsPropertyT, xgbPredictionsPropertyT, np.array(fPrePT), np.array(dPrePT), np.array(oPrePT),
+                np.array(iPrePT)))).transpose()
 
 v_preds = regV.predict(X_VT)
-meanSqErV = mean_squared_error(allY_testViolent, v_preds)
+meanSqErVT = mean_squared_error(allY_testViolent, v_preds)
 
 p_preds = regP.predict(X_PT)
-meanSqErP = mean_squared_error(allY_testProperty, p_preds)
+meanSqErPT = mean_squared_error(allY_testProperty, p_preds)
 
 print(meanSqErVT)
 print(meanSqErPT)
